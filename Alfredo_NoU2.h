@@ -21,6 +21,8 @@
 #define SERVO2_PIN 17
 #define SERVO3_PIN 25
 #define SERVO4_PIN 26
+#define SERVO5_PIN 5
+#define SERVO6_PIN 4
 
 #define RSL_PIN 2 // Same as built-in LED
 
@@ -36,6 +38,8 @@
 #define SERVO3_CHANNEL 8
 #define SERVO4_CHANNEL 9
 #define RSL_CHANNEL 10
+#define SERVO5_CHANNEL 11
+#define SERVO6_CHANNEL 12
 
 // PWM Configuration
 #define MOTOR_PWM_RES 10 // bits
